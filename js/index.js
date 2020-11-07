@@ -3,4 +3,4 @@
 
 const main = document.getElementById('main');
 
-main.addEventListener('click', event => { alert(event.value); });
+main.addEventListener('click', event => { alert(event.key); });
