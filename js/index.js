@@ -15,3 +15,5 @@ input.addEventListener('keydown', e => {
   }
 });
 
+let divs = document.querySelectorAll('div');
+
