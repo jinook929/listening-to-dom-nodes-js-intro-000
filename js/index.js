@@ -3,4 +3,4 @@
 
 const main = document.getElementById('main');
 
-main.addEventListener('click', event => { alert(event); });
+main.addEventListener('click', event => { alert('I was clicked!'); });
